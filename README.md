@@ -18,3 +18,5 @@ Esse projeto foi feito com HTML, CSS e um pouco de criatividade pra transformar 
 ## Objetivo
 
 Explorar ideias, testar abordagens e construir algo que represente mais do que só código — mas também a forma como eu aprendo e evoluo.
+
+https://portfolio-esteraraujo.netlify.app/
